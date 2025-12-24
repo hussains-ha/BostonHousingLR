@@ -72,4 +72,4 @@ To run this notebook, you will need the following libraries:
 - model.ipynb: The main analysis and training pipeline.
 - data/housing.csv: The raw dataset.
 - abstractions/torch.py: Source for customized training and data loading abstractions.
-- Note: This project builds on concepts from Zhang et al., "Dive into Deep Learning" (d2l.ai).
+Note: This project builds on concepts from Zhang et al., "Dive into Deep Learning" (d2l.ai).
