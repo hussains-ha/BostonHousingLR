@@ -70,6 +70,7 @@ To run this notebook, you will need the following libraries:
 
 ### Project Structure:
 - model.ipynb: The main analysis and training pipeline.
+- model_concise.ipynb: A concise implementation of `model.ipynb` using PyTorch's high level APIs. 
 - data/housing.csv: The raw dataset.
 - abstractions/torch.py: Source for customized training and data loading abstractions.
 Note: This project builds on concepts from Zhang et al., "Dive into Deep Learning" (d2l.ai).
